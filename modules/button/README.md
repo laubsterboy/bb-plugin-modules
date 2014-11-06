@@ -4,32 +4,32 @@
 <ul>
 	<li>Added Feature: A pages dropdown menu that can be used to set the button link. Otherwise URLs can manually be typed into the link input.
 		<ul>
-			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-module-button/blob/master/button/button.php">button/button.php</a> 
+			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-modules/blob/master/modules/button/button.php">button.php</a> 
 		</ul>
 	</li>
 	<li>Change: Set preview to none for "link", "page_link", and "link_target" inputs since it's not needed.
 		<ul>
-			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-module-button/blob/master/button/button.php">button/button.php</a> 
+			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-modules/blob/master/modules/button/button.php">button.php</a> 
 		</ul>
 	</li>
 	<li>Change: Set "font_size", "padding", and "border_radius" defaults to empty.
 		<ul>
-			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-module-button/blob/master/button/button.php">button/button.php</a> 
+			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-modules/blob/master/modules/button/button.php">button.php</a> 
 		</ul>
 	</li>
 	<li>Change: Set "font_size", "padding", and "border_radius" to not be required.
 		<ul>
-			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-module-button/blob/master/button/js/settings.js">button/js/settings.js</a> 
+			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-modules/blob/master/modules/button/js/settings.js">js/settings.js</a> 
 		</ul>
 	</li>
     <li>Added Feature: The "link" and "page_link" inputs automatically update when either value is changed.
 		<ul>
-			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-module-button/blob/master/button/js/settings.js">button/js/settings.js</a> 
+			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-modules/blob/master/modules/button/js/settings.js">js/settings.js</a> 
 		</ul>
 	</li>
     <li>Change: CSS relating to "font_size", "padding", and "border_radius" are only set if they're not empty.
 		<ul>
-			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-module-button/blob/master/button/includes/frontend.css.php">button/includes/frontend.css.php</a> 
+			<li>Source: <em><a href="https://github.com/laubsterboy/bb-plugin-modules/blob/master/modules/button/includes/frontend.css.php">includes/frontend.css.php</a> 
 		</ul>
 	</li>
 </ul>
